@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">lab 5.1 google map intent</string>
+    <string name="lat">Latitube</string>
+    <string name="lon">Longtitube</string>
+    <string name="show_map">Show Map</string>
+
+</resources>
